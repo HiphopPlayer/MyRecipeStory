@@ -45,7 +45,7 @@ public class LoginActivity extends Activity {
 		
 		
 	}
-
+	//Key Down 이벤트
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
 		if (keyCode == KeyEvent.KEYCODE_BACK) {
